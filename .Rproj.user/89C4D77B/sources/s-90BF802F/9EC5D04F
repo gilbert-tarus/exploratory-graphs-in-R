@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602229083110.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9EC5D04F",
+    "lastKnownWriteTime" : 1602318897,
+    "last_content_update" : 1602318897,
+    "path" : "D:/Kidcode/Coursera/R For data science/Exploratory Data Analysis/Projects/Course Project 2/plot1.R",
+    "project_path" : "plot1.R",
+    "properties" : {
+        "cursorPosition" : "2,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

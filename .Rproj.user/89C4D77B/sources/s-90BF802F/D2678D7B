@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602234118142.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D2678D7B",
+    "lastKnownWriteTime" : 1602234710,
+    "last_content_update" : 1602334398805,
+    "path" : "D:/Kidcode/Coursera/R For data science/Exploratory Data Analysis/Projects/Course Project 2/Course Project 2.Rmd",
+    "project_path" : "Course Project 2.Rmd",
+    "properties" : {
+        "cursorPosition" : "32,6",
+        "last_setup_crc32" : "",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
